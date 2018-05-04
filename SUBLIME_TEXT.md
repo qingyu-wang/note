@@ -1,4 +1,4 @@
-# License
+# Add License
 
 ```
 —– BEGIN LICENSE —–
@@ -16,16 +16,17 @@ E36B85CC 84991F19 7575D828 470A92AB
 —— END LICENSE ——
 ```
 
-# Config
+# Modify Host Config
 
-**Linux** and **Mac**: `/etc/hosts`</br>
-**Windows**: `C:\Windows\System32\drivers\etc\hosts`
+`/etc/hosts` [**Linux** and **Mac**]</br>
+`C:\Windows\System32\drivers\etc\hosts` [**Windows**]
 
+Add this line to the config file.
 ```
 127.0.0.1 license.sublimehq.com
 ```
 
-if not work, add the following two
+If not work, add the following lines too.
 ```
 127.0.0.1 45.55.41.223
 127.0.0.1 45.55.255.55
