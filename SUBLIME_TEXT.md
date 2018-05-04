@@ -18,7 +18,7 @@ E36B85CC 84991F19 7575D828 470A92AB
 
 # Config
 
-**Linux** and **Mac**: `/etc/hosts`
+**Linux** and **Mac**: `/etc/hosts`</br>
 **Windows**: `C:\Windows\System32\drivers\etc\hosts`
 
 ```
