@@ -18,9 +18,9 @@ E36B85CC 84991F19 7575D828 470A92AB
 
 # Modify Host Config
 
-`/etc/hosts` [**Linux** and **Mac**]
+- `/etc/hosts` [**Linux** and **Mac**]
 
-`C:\Windows\System32\drivers\etc\hosts` [**Windows**]
+- `C:\Windows\System32\drivers\etc\hosts` [**Windows**]
 
 Add this line to the config file.
 ```
